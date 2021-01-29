@@ -1,2 +1,2 @@
 # cke
-Practice Problem Solution of Knowledge Enhancement Programm.
+Practice Problem Solution of Knowledge Enhancement Programme.
